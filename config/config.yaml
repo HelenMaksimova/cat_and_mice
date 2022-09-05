@@ -1,0 +1,18 @@
+base:
+  width: 1500
+  height: 1000
+  bar_height: 50
+  an_time: 300
+  fps: 60
+game:
+  trees: 15
+  dogs: 6
+  mice: 10
+player:
+  step: 3
+  tries: 3
+  stars: 10
+mobs:
+  step: 2
+  size: 50
+  destination: 100
